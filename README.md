@@ -1,13 +1,11 @@
-# Codeigniter
-
-Tutorial install PHPWord di codeigniter 
+# Tutorial Install PHPWord di Codeigniter 
 
 hal yang akan kita bahas disini merupakan cara menggunakan PHPWord 0.6.2-1 Beta untuk framework codeigniter.
 yang perlu kita perhatikan disini adalah versi PHPWord memiliki struktur yang berbeda disetiap versinya
 
 Namun pada tutorial ini saya menggunkan versi beta (PHPWord 0.6.2-1)
 
-Apa saja yang perlu diperhatikan
+# Apa yang perlu diperhatikan
 
 1. THIRD_PARTY  = Masukkan PHPWord pada folde berikut
 2. LIBRARY      = Buat sebuah file baru disini kemudian masukkan kode berikut:
